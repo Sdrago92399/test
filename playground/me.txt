@@ -1,5 +1,0 @@
-{{#user}}
-Name: Shahbaaz Alam
-Skills: HTML, CSS, JS, Node.js, React.js, Servlets, JSP, Laravel, Bootstrap, JQuery 
-Email: shahbazalam92399@gmail.com
-{{/user}}
